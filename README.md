@@ -53,15 +53,19 @@ Lookalike targeting matches new audiences to people who already trust and buy fr
 
 Campaign Results — Verified Dashboard Data
 
-MetricResultNotesImpressions1,338Total ad views across the 5-day runReach756Unique accounts reachedCPM (Cost per 1,000 impressions)₦3,915.83 (~$2.54)Efficient for a messaging objectiveCTR (Click-Through Rate)2.91%3× above Meta industry average (~0.9%)CPC (Cost per Click)₦139.03 (~$0.09)Highly cost-efficientMessaging Conversations Started6Primary campaign objectiveCost per Messaging Conversation₦873.23 (~$0.57)Cost per qualified lead initiatedTotal Spend₦5,239.38 (~$3.40)Small-budget test campaign
+Metric Result Notes
+Impressions: 1,338
+Total ad views across the 5-day run: 756. Unique accounts reached: 3. CPM (Cost per 1,000 impressions)₦3,915.83 (~$2.54)
+Efficient for a messaging objective, CTR (Click-Through Rate)2.91% 
+3× above Meta industry average (~0.9%)CPC (Cost per Click)₦139.03 (~$0.09)Highly cost-efficient Messaging Conversations Started6Primary campaign objective Cost per Messaging Conversation₦873.23 (~$0.57)Cost per qualified lead initiated Total Spend ₦ 5,239.38 (~$3.40)Small-budget test campaign
 
 Impression Trend (Day by Day)
 
-The impression curve peaked on May 5–6 before declining into May 7–8, consistent with Meta's algorithm learning phase behaviour. On May 7 alone, impressions dropped to 144 — the algorithm was still optimising delivery as the campaign entered its final days. This is expected and normal for a short-run, small-budget campaign that had not yet exited the learning phase.
+The impression curve peaked on May 5–6 before declining through May 7–8, consistent with Meta's algorithm-learning phase behaviour. On May 7 alone, impressions dropped to 144 — the algorithm was still optimizing delivery as the campaign entered its final days. This is expected and normal for a short-run, small-budget campaign that has not yet exited the learning phase.
 
 CPM Trend
 
-CPM started lower on May 4 (~₦3,000), peaked around May 5–6 (~₦4,500–₦5,000), then stabilised around ₦3,900 by May 7. This pattern reflects the algorithm competing for higher-quality impressions in the early phase before finding an efficient delivery rhythm — again, normal for a new campaign.
+CPM started lower on May 4 (~₦3,000), peaked around May 5–6 (~₦4,500–₦5,000), then stabilized around ₦3,900 by May 7. This pattern reflects the algorithm competing for higher-quality impressions in the early phase before finding an efficient delivery rhythm — again, normal for a new campaign.
 
 
 Audience Analysis — Demographics Breakdown
@@ -80,7 +84,7 @@ The video testimonial creative resonated specifically with male buyers
 Either women are not in the lookalike pool in meaningful numbers, or the creative and hook did not speak to female buyers
 
 
-The multi-generational spread across 18–24, 25–34, and 45–54 suggests the trust barrier around online gadget shopping is not age-specific — it affects buyers across demographics, which validates the objection-led creative strategy.
+The multi-generational spread across 18–24, 25–34, and 45–54 shows that the trust barrier around online gadget shopping isn't age-specific—it affects buyers across demographics, which supports the objection-led creative strategy.
 
 The 45–54 age group responding is particularly notable. Older buyers are typically harder to convert on social media, which suggests the video testimonial format was especially effective at building credibility with a more trust-cautious audience segment.
 
@@ -117,7 +121,7 @@ Verdict: HOLD, Do Not Kill, Do Not Scale Yet
 
 Rationale:
 
-At 1,338 impressions over 5 days with a small budget, this campaign has not exited Meta's learning phase. Meta requires approximately 50 optimisation events (in this case, 50 messaging conversations) before the algorithm stabilises delivery. The campaign generated 6. Scaling budget now would amplify current inefficiencies before the algorithm has learned who to target.
+At 1,338 impressions over 5 days with a small budget, this campaign has not exited Meta's learning phase. Meta requires approximately 50 optimisation events (in this case, 50 messaging conversations) before the algorithm stabilises delivery. The campaign generated 6. Scaling the budget now would amplify current inefficiencies before the algorithm has learned who to target.
 
 Killing the campaign ignores a 2.91% CTR that clearly signals the creative and audience are aligned. That signal is valuable and should not be discarded.
 
